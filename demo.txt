@@ -1,2 +1,5 @@
 this is demo file 
 add line after first commit
+now push via a access code 
+git remote set-url --add origin <name><newurl>
+
